@@ -9,11 +9,11 @@ const headingFonts = ["Montserrat", "Lato", "Sans-Serif"].join(",");
 
 const rootTheme = createTheme({
   palette: {
-    primary: {},
-    secondary: {},
-    text: {},
-    background: {},
-    error: {},
+    // primary: {},
+    // secondary: {},
+    // text: {},
+    // background: {},
+    // error: {},
   },
   typography: {
     fontFamily: rootFonts,
